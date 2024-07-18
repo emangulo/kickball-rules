@@ -1,5 +1,5 @@
 # Kickball rules
-Based on the Outloud Sports rules, updated on October 13, 2023.
+Based on the OutLoud Sports rules, updated on October 13, 2023.
 
 ## Contents
 1. [Before the game](#before-the-game)
@@ -12,9 +12,9 @@ Based on the Outloud Sports rules, updated on October 13, 2023.
 
 ## Before the game
 
-**Home plate umpires**: League will arrange home plate umpires for all games. Home plate umpires are typically volunteer and current league players or team captains but can also be non-league players. If home plate umpires are unavailable, players will be requested to help. Only the team captain is allowed to speak to the ump, for any reason. If a player violates this policy, they are subject to a yellow-card. The second time, they are subject to a red-card.
+**Home plate umpires**: League will arrange home plate umpires for all games. Home plate umpires are typically volunteer and current league players or team captains but can also be non-league players. If home plate umpires are unavailable, players will be requested to help. Only the team captain is allowed to speak to the ump, for any reason. If a player violates this policy, they are subject to a yellow card. The second time, they are subject to a red card.
 
-**First base umpires**: Each team is expected to provide one team player, each week, to ump first base for a game in which your team is not playing (i.e. either before or after your game that week). League officials will create a schedule for teams to provide first-base umpires throughout the season. This player should know the basic rules of play and will primarily assist the home plate umpire with safe/out calls, fair/foul calls, encroachment calls, keeping score, etc..
+**First base umpires**: Each team is expected to provide one team player, each week, to ump first base for a game in which your team is not playing (For example, either before or after your game that week). League officials will create a schedule for teams to provide first-base umpires throughout the season. This player should know the basic rules of play and will primarily assist the home plate umpire with safe/out calls, fair/foul calls, encroachment calls, keeping score, etc.
 
 **Uniforms**: Each player must wear a “team jersey” uniform. There are no regulations to the extent of the outfit – anything is allowed – but you must have a uniformed color and look.
 
@@ -29,13 +29,13 @@ Substitutes (Subs) are only allowed during regular season play. Subs must pay a 
 
 1. No subs are allowed in the playoffs unless previously cleared through the league manager.
    - Any sub replacing a registered player in playoffs, permanently replaces that player until the end of the season.
-   - No subs are allowed in the A Division during playoffs. (varies by city)
-     - The exception is if a player is legitimately injured and their replacement would be necessary for a team to compete. All replacement players must be approved by the league in the A division.
+   - No subs are allowed in the A Division during playoffs. (Varies by city)
+     - The exception is if a player is legitimately injured, and their replacement would be necessary for a team to compete. All replacement players must be approved by the league in the A division.
 2. You may not have a sub play on a team if they are not actually substituting a missing player (For instance, you cannot just add more players to your roster as the season goes on).
 3. Players from other teams in the same league are not allowed to sub for your team, without manager permission.
 
 ### Player removal from the league
-Any player exhibiting unsportsmanlike conduct, by the perspective of the umpire or League, will be subjected to a yellow-card or red-card. A player can only receive one yellow-card before receiving a redcard. Yellow cards are cumulative throughout the League. Per the ump’s discretion, a player can be subjected to a red card without a prior yellow-card. A player shall be removed from the current game only upon receiving a red card. League officials reserve the right to suspend and/or disqualify any ejected player for future games if behavior is deemed to be threatening in any nature to another player, umpire, spectator, League staff, park patron, animals or is morally offensive. Sportsmanlike conduct is expected on-and-off the field and offline-and-online. Unsportsmanlike conduct can be defined by, but not limited to, inappropriate behavior, verbal abuse, intimidation, dangerous play, intoxication and match fixing. Removed players are ineligible for refunds.
+Any player exhibiting unsportsmanlike conduct, by the perspective of the umpire or League, will be subjected to a yellow card or red card. A player can only receive one yellow card before receiving a red card. Yellow cards are cumulative throughout the league. Per the ump’s discretion, a player can be subjected to a red card without a prior yellow card. A player shall be removed from the current game only upon receiving a red card. League officials reserve the right to suspend and/or disqualify any ejected player for future games if behavior is deemed to be threatening in any nature to another player, umpire, spectator, league staff, park patron, animals, or is morally offensive. Sportsmanlike conduct is expected on and off the field, offline and online. Unsportsmanlike conduct can be defined by, but not limited to, inappropriate behavior, verbal abuse, intimidation, dangerous play, intoxication and match fixing. Removed players are ineligible for refunds.
 
 ### Forfeit
 Teams will forfeit their win and their runs scored if: players consume open containers of alcohol and
@@ -57,14 +57,14 @@ Kickers Are allowed 4 Foul Balls, 3 Strikes and 4 Balls. Please note with 2 Stri
 
 **Slaughter rule**: if a team is ever ahead by more than 12 runs, the game will be considered complete with the final score inputted as a is.
 
-If the away team’s inning ends with a 12 run differential, the home team may complete the inning. However, if an away team’s inning ends because they are not able to score anymore runs (i.e. the team starts the inning with an 11 run differential and scores 2 runs) the game will end.
+If the away team’s inning ends with a 12-run differential, the home team may complete the inning. However, if an away team’s inning ends because they are not able to score anymore runs (For example, the team starts the inning with an 11-run differential and scores 2 runs) the game will end.
 
 Loud music and excessive auditory sounds are not allowed if it is a distraction to the opposing team or the umpires. Players may be yellow-carded or removed from play if behavior continues.
 
 Same ball must be used the entire game, unless both captains agree to switch.
 
 ### Field size
-Field Size is 60ft from base tobase.
+Field Size is 60ft from base to base.
 
 Infield is anything within the baseline. Outfield is 15ft behind the bases.
 
@@ -73,28 +73,33 @@ The crashing start line is 2/3 mark between home plate (40ft) and 3rd base, or h
 ![image](https://github.com/user-attachments/assets/5525a2c9-2feb-4e22-83b5-f78fc98bbc9b)
 
 ### Player locations
-10 players on the field – 6 infield/4 outfield. If you have less than 10 players, you may place players in any positions so long as they don’t violate the maximum number of infield and outfield positions. Those players are not allowed to change positions mid-inning. Catcher’s location is either behind or to the side of the kicker’s box. Catcher’s may not interfere with play or cross into the kicker’sbox until the ball is kicked or the umpire calls the pitch. Players are not allowed to switch positions mid-inning unless a player is injured.
+10 players on the field; 6 infield and 4 outfield. If you have fewer than 10 players, you may place players in any positions so long as they don’t violate the maximum number of infield and outfield positions. Those players are not allowed to change positions mid-inning.
+
+The catcher’s location is either behind or to the side of the kicker’s box. Catchers may not interfere with play or cross into the kicker’s box until the ball is kicked or the umpire calls the pitch. Players are not allowed to switch positions mid-inning unless a player is injured.
 
 ### Non-active players
-Players must remain in or around the dugout, at all times. Exceptions are allowed for a 1st base and 3rd base coach. On-Deck kickers must remain in the dugout or they may use a designated on-deck box.
+Players must remain in or around the dugout at all times. Exceptions are allowed for a 1st base and 3rd base coach. On-deck kickers must remain in the dugout, or they may use a designated on-deck box.
 
 If a non-base coach’s actions obscure the umpire’s ability to call a play, the umpire may use their discretion and stop play with whatever call seems just.
 
-If any non-active player obstructs play for the opposing team (touching a ball, blocking players movements, etc), that player will receive a yellow card and play stops. Base runners will return to their previous base. If it was a fair ball, play stops, and the kicker will be given a foul ball. If the play would have been an “out”, the UMP will use their discretion and decide.
+If any non-active player obstructs play for the opposing team (touching a ball, blocking players movements, etc.), that player will receive a yellow card and play stops. Base runners will return to their previous base. If it was a fair ball, play stops, and the kicker will be given a foul ball. If the play would have been an “out”, the UMP will use their discretion and decide.
 
 Base coaches are not allowed to touch their teammates during active play. If they do, play stops, runners do not advance, and the play will result in an out. Active play is considered complete once the pitcher has the ball and touches the mound.
 
 ### Contesting calls, challenges, or rule clarifications
-**Contesting calls**: Only captains may challenge a call. Each game, the captain of each team is allowed one _Captain's challenge_ to contest one call, stopping the clock for 1 minute maximum to discuss the play with the UMP and the other captain. At the end of 1 minute, the UMPS call is final. ___If the call is resolved in the captain’s favor, the captain reserves the right to make an additional challenge___.
+**Contesting calls**: Only captains may challenge a call. Each game, the captain of each team is allowed one _Captain's challenge_ to contest one call, stopping the clock for 1 minute maximum to discuss the play with the UMP and the other captain. At the end of 1 minute, the UMPS call is final.
+
+___If the call is resolved in the captain’s favor, the captain reserves the right to make an additional challenge___.
+
 1. If any captain attempts to consistently challenge calls, thereby causing a delay of game or obstructing game from continuing, captain may be yellow carded/red carded.
 2. If a captain has no more challenges, and attempts another challenge, the team will be penalized 1 run for each additional challenge, and the challenge will be ignored.
 3. If the captain persists, they are subject to a yellow card.
-4. A “challenge” is considered a contest of a call, and includes any query of any umps decision that interrupts or slows the process of the game for the purposes of revising an ump’s decision.
+4. A “challenge” is considered a contest of a call and includes any query of any umps decision that interrupts or slows the process of the game for the purposes of revising an ump’s decision.
 
 Clarification of a rule is not a challenge. However, if a captain chooses to argue the specific call, thereby halting play, this will be considered a challenge. Players are expected to learn the rules before participating.
 
 
-## What is considered and _Out_ and _Foul_
+## What is considered and _out_ and _foul_?
 
 ### What is an _Out_?
 
@@ -106,17 +111,17 @@ Clarification of a rule is not a challenge. However, if a captain chooses to arg
 1. If a base runner is tagged with the ball, they may not touch the ball. If they do, play is considered obstruction, and play stops.
 2. If a base runner is in contact with the ball at any time (whether intentional or not), and is not on a base, the runner is out.
 
-**Foul out**: A kicker receives 4 fouls
-1. If the kicker receives three fouls and the fourth foul is obstructed by a stationary foreign object in fair territory (i.e. tree branch, overhead fencing), the kicker will get one additional foul.
+**Foul out**: A kicker receives 4 fouls.
+1. If the kicker receives three fouls and the fourth foul is obstructed by a stationary foreign object in fair territory (For instance, tree branch or overhead fencing), the kicker will get one additional foul.
 2. If the object is in foul territory, the ball would be considered a foul, as normal, and result in an out.
 
 **Fly out**: An opponent catches the ball in fair or foul territory.
 1. If the ball is caught in foul territory, the ball is considered live and base runners may advance.
 
-**Forced play**: A base runner is out if they do not reach the base before the opposing team player touches the base, while holding the ball, when the runner is forced to advance to that base A runner is forced to 2nd base
+**Forced play**: A base runner is out if they do not reach the base before the opposing team player touches the base, while holding the ball, when the runner is forced to advance to that base A runner is forced to 2nd base.
 
 **Throwing a ball**: An opponent throws the ball at a runner and hits them shoulders or below.
-1. If the thrown ball strikes the base runner in the head first, the base runner will be called safe.
+1. If the thrown ball strikes the base runner in the headfirst, the base runner will be called safe.
 2. The head is considered to be neck and above.
 3. Shoulders are not considered a head.
 4. If a runner is sliding, the ball may hit the player anywhere, including the head, to be considered out.
@@ -127,11 +132,11 @@ Clarification of a rule is not a challenge. However, if a captain chooses to arg
 
 **Base coach**: An opponent’s base coach touches a player during active play.
 
-**Safety base**: An opponent does not utilize the safety base when running through first base. Or an opponent slides into first base.
+**Safety base**: An opponent does not utilize the safety base when running through first base, or an opponent slides into first base.
 
 **Sliding**: A player illegally slides with cleats up, accidental or otherwise.
 
-**Runnint out of the baseline**: If a runner deviates from the baseline, they will be considered out (per ump’s discretion)
+**Running out of the baseline**: If a runner deviates from the baseline, they will be considered out (per ump’s discretion)
 
 **Leading off**: If a player leads off the base before the ball is kicked, the player would be called out.
 
@@ -142,7 +147,7 @@ Clarification of a rule is not a challenge. However, if a captain chooses to arg
 
 **Colliding with another base runner**: If a base runner touches or passes another runner, the leading runner will be considered out.
 
-**Pinch runners**: Pinch running out of order
+**Pinch runners**: Pinch running out of order.
 
 ### Fair and foul balls
 Fair territory is the area from home plate extending along the foul lines by 1st and 3rd base and into right and left field. Within those bounds is fair territory. Outside of those bounds is foul territory.
@@ -168,12 +173,12 @@ The strike zone is 1 ball length on either side of the plate (42” total – 18
 1. Any pitch that crosses the strike zone that is not kicked by a kicker.
 2. Any pitch that a kicker attempts to kick, and misses.
    - This includes swinging for the ball, missing it, but the ball hits your resting back leg/inactive leg.
-4. A bouncing pitch that bounces at least 2 times before reaching the plate, that is not kicked by a kicker.
+3. A bouncing pitch that bounces at least 2 times before reaching the plate, and is not kicked by a kicker.
    - If the second+ bounce lands on the plate, the ball is considered a strike.
    - If the second+ ball bounces right before the plate (within 6” of the plate) and bounces above the 6” mark strike zone, depending on where the ball crosses the front of the plates’ plane may consider the ball a strike.
 
 ### Foul balls
-A foul ball is considered as the following. Any foul ball is considered “live” and may be caught to force an out. Once any foul ball is caught, play becomes live and runners may advance after the ball is caught.
+A foul ball is considered as the following: Any foul ball is considered “live” and may be caught to force an out. Once any foul ball is caught, play becomes live, and runners may advance after the ball is caught.
 
 **Foul balls**: (Four Fouls is an OUT)
 1. Kicking in front of the plate.
@@ -193,7 +198,7 @@ a. The kick is where the ball is, not the planted foot. Thus, the ball must be k
 **Ball**: (Four Balls is a WALK. Four Consecutive Balls without strikes/fouls is TWO BASES)
 1. Any pitch that is completely covering the orange “guiding plate” or outside of it will be considered a ball.
 2. Any ball that does not bounce at least twice before reaching the home plate.
-3. Any player who encroaches in front of the pitcher, while pitching. (see Crashing)
+3. Any player who encroaches in front of the pitcher, while pitching. See [Fielding players and base players](#field-players-and-base-players)
    - If the pitcher encroaches closer to the mound than 5ft.
    - If the catcher advances in front of the home plate before the ball is kicked.
 4. Any pitch that crosses the base above the 6” plane (as marked by a cone)
@@ -217,8 +222,8 @@ Play stops when the pitcher touches the ball at the mound.
 ### Kicking
 Kickers are expected to understand strikes, fouls and balls before approaching the plate (see above)
 
-Kickermust kick the ball within the kicker’s box (38” wide by 48” deep). Any further and the call will be considered a foul ball.
-1. If the UMP calls a ball or a strike and the kicker then kicks the ball, the UMPs previous call stands and the kick is invalid.
+The kicker must kick the ball within the kicker’s box (38” wide by 48” deep). Any further and the call will be considered a foul ball.
+1. If the UMP calls a ball or a strike and the kicker then kicks the ball, the UMP's previous call stands, and the kick is invalid.
 2. The kicker may kick the ball outside the kicker’s box if the pitch is wide (or outside the box). However, if the ball is kicked too far outside the box, the ball will enter from FOUL territory and will be considered a FOUL BALL.
 
 A kick is defined as a leg in motion. If the leg does not move forward, it is not a kick and will be called whatever the pitch would be if contact was not made.
@@ -233,37 +238,38 @@ A runner is allowed to run through first base. If they overrun any other base, t
 1. If they overrun a base, the opposing team must TAG them with the ball, not tag the base.
 
 Running out of the baseline is considered an out and play will stop.
-1. As running out of the baseline can be considered obstruction of play, without clear instruction from an umpire, play will stop and runners will not be able to advance further.
+1. As running out of the baseline can be considered obstruction of play, without clear instruction from an umpire, play will stop, and runners will not be able to advance further.
 
 Base runners may not steal bases or lead off. Base runners may only leave the base once the kicker makes contact with the ball. Leading off of the base before the kicker makes contact will result in an out.
 
 **Baserunning obstruction**: If a defending player is in the baserunner’s path and is not actively going to collect the ball and obstructs the runner, which effects in them being called out, the player will advance to their base and be considered safe. If the previous base is unavailable, the player will return to their previous base. If the defending player is actively making a play, then whatever actions happen stand.
 
-If a baseplayer is blocking the plate, work to avoid injury or collision. Base players should always attempt to position themselves away from the runner.
+If a base player is blocking the plate, work to avoid injury or collision. Base players should always attempt to position themselves away from the runner.
 
 A tie always goes to the runner.
 
 ### Fielding players and base players
-6 Players are INFIELD and 4 Players are OUTFIELD (defined as 15ft behind any base)
+6 players are _infield_ and 4 players are _outfield_. The outfield is defined as the area 15 feet behind any base.
 
 **All defending players**  
 Fielding Players are required to be in their position BEFORE the ball is kicked. Once the ball is kicked, fielders may move anywhere they wish.
 
 **Base players**  
-Base Players will do their best not to obstruct the path of the base runners while making active plays, however, a base player is not obstructing play by making a play for a ball.
+Base players will do their best not to obstruct the path of the base runners while making active plays, however, a base player is not obstructing play by making a play for a ball.
 1. Base players are recommended to stand outside of where plays are being made, to avoid collisions with players and injuries to themselves.
 2. Catchers are recommended to stand in front of home plate as opposed to standing in the baseline.
 
-Base Players may force an out by tagging a base while holding a ball, or touching the ball to the mound (so long as it’s in their possession).
+Base players may force an out by tagging a base while holding a ball or touching the ball to the mound, as long as it’s in their possession.
 1. Force plays only occur when a runner is required to advance to the next base.
 2. Base players must tag a runner when there is no force at the base, or when a player over runs a base other than the runner’s advancement to first base from home plate.
 
 **Base players "crashing" the plate**
+
 Once the ball is pitched, any defending player may advance towards home plate, provided they do not pass the pitcher.
-1. A baseplayer must start at a distance of 40ft (minimum). Note: The pitcher’s mound is twothirds the distance of the baseline. The cone or marker closest to 3rd base is the designated 2/3’s mark.
+1. A base player must start at a distance of 40ft (minimum). Note: The pitcher’s mound is two thirds the distance of the baseline. The cone or marker closest to 3rd base is the designated 2/3’s mark.
 2. This line extends from 1st to 3rd base and can be marked by cones.
 3. If a player advances in front of the pitcher, the pitch will be considered a ball unless the kicker decides to kick the ball.
-4. Pitcher may not crash any further than 5 feet before the plate. Otherwise the action is considered obstructing the player’s ability to kick the ball. The pitch will be considered a ball.
+4. Pitcher may not crash any further than 5 feet before the plate, otherwise, the action is considered obstructing the player’s ability to kick the ball. The pitch will be considered a ball.
 
 **Pitcher**
 Play does not stop until the pitcher has the ball and touches the pitcher’s plate. Umpire will call time. Runners must go back to their previous base, unless they are more than halfway, in which case they will be awarded the base to which they were advancing.
@@ -273,9 +279,9 @@ Play does not stop until the pitcher has the ball and touches the pitcher’s pl
 Play ends when the pitcher touches the pitcher’s plate while possessing the ball. All defending players must return to their positions. Base runners must return to the previous base, unless they were more than halfway to the next base.
 
 If there is a forced out for the last out of the inning, no runs scored will be counted.
-1. Force out includes: tagging the base the runner is advancing to, or tagging the runner/base if they are forced to run.
+1. Force out includes tagging the base the runner is advancing to or tagging the runner if they are forced to run.
 2. If a runner is tagged out when they were not forced to run, if any runs have scored before the out occurs, these will be counted.
-3. If there are 2 outs in an inning and the ball is kicked in the air and the ball is not directly and decisively caught and a runner scores ; i.e, a runner advances from 3rd base to home plate before the player completes the catch, - the run will score.
+3. If there are 2 outs in an inning and the ball is kicked in the air and the ball is not directly and decisively caught and a runner scores. For instance, if a runner advances from 3rd base to home plate before the player completes the catch, the run will score.
 
 
 ## Variables that change play
@@ -286,17 +292,17 @@ If a player overthrows at first base, that runner is allowed only 1 extra base. 
 2. The overthrow rule does not count when throwing the ball at the runner. If a player attempts to hit the runner with the ball, and misses, the player may advance past the one extra base.
 
 ### Ball out of play - two bases maximum
-If a ball falls out of natural play (into the streets in a dug out, into a trash can, etc) regardless whether a player threw the ball or it was kicked, the runners are only allowed to advance a maximum of 2 bases.
+If a ball falls out of natural play (into the streets in a dug out, into a trash can, etc.) regardless of whether a player threw the ball or it was kicked, the runners are only allowed to advance a maximum of 2 bases.
 1. If the ball falls out of play and it is deemed intentional by the ump as an effort to prematurely end the play, it is the ump’s discretion to decide if the play should be allowed to continue.
 
 ### Pinch runners (only in league play, not tournament)
-If a kicker can kick, but not run, they may have a runner for them. This runner is the player in the lineup who made the last out. In the first inning, the last kicker in the kicking order shall be the courtesy runner. The pinch runner must start to the right of the back of the kicker’s box. (left foot on the back cone).
+If a kicker can kick, but not run, they may have a runner for them. This runner is the player in the lineup who made the last out. In the first inning, the last kicker in the kicking order shall be the courtesy runner. The pinch runner must start to the right of the back of the kicker’s box. (Left foot on the back cone).
 
 If a kicker utilizes a pinch runner, they may not run for themselves for the remainder of the game. If the pinch runner advances before the ball is kicked, it will be considered a foul ball.
 
 If the kicker interferes with play of the ball as the pinch runner is advancing, the runner will be considered out.
 1. Interference includes obstruction of play, touching the ball, moving forward from the kicker’s box (as opposed to moving towards the dugout), or blocking the umpire's ability to make a call.
-2. If the pinch runner is out of order (i.e. not the last out or the last person on the kicking lineup in the case of the first kick of the game), play will be considered the same as kicking out of order and the kicker will be out.
+2. If the pinch runner is out of order (For instance, not the last out or the last person on the kicking lineup in the case of the first kick of the game), play will be considered the same as kicking out of order and the kicker will be out.
 
 
 ## Playoffs or multiple games
@@ -308,13 +314,13 @@ The following applies if there are multiple games being played on the same field
 
 ### Playoffs (regular play, not league)
 In the event of teams having tied rankings going into playoffs, final standings will be based on the following tiebreaker structure:
-1. Head to Head matchup
-2. Point Differential
-3. Total Points
+1. Head-to-head matchup
+2. Point differential
+3. Total points
 
-If all teams with the same record DO NOT have an equal Head to Head matchup (i.e. 4 teams with the same ranking but only two have a head-to-head to evaluate), ALL teams will move to Point Differential to establish the tiebreaker. If there are teams tied with Point Differential, then the tiebreaker will move to Points Scored for those teams.
+If all teams with the same record DO NOT have an equal head-to-head matchup (For example, 4 teams with the same ranking but only two have a head-to-head to evaluate), _all_ teams will move to _point differential_ to establish the tiebreaker. If there are teams tied with _point differential_, then the tiebreaker will move to _points scored_ for those teams.
 
-For the purposes of the Head to Head tiebreaker, if two teams have the same standing and played during the regular season and the game resulted in a TIE, then the tiebreaker for playoff ranking will move to Point differential. If 3 teams have the same ranking and all three played each other and one of the three games resulted in a tie, the tie breakers would be played according to the Overtime rules.
+For the purposes of the head-to-head tiebreaker, if two teams have the same standing and played during the regular season and the game resulted in a TIE, then the tiebreaker for playoff ranking will move to Point differential. If 3 teams have the same ranking and all three played each other and one of the three games resulted in a tie, the tie breakers would be played according to the Overtime rules.
 
 ### Overtime and tie games
 One pitch rule shall be applied. The last kicker of the previous inning shall be placed on 2nd base. Each kicker gets 1 pitch. The inning will play as normal with 3 outs.
@@ -322,7 +328,7 @@ One pitch rule shall be applied. The last kicker of the previous inning shall be
 Foul ball = OUT  
 Strike = OUT  
 Ball = WALK  
-KickedBall: Outcome of play.  
+Kicked ball: Outcome of play.  
 Obstruction Foul doesn’t count as an out.
 
 
